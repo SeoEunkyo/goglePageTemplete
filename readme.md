@@ -8,5 +8,5 @@ Material-ui를 적용해보니 .. 렌더링이 두번일어 났습니다.  두�
 해결방안으로는 _document.js 파일에서 getInitialProps 함수를 이용하여 styleSheet를 가지고 오게 함으로써 해결.... 
 
 컴파일이 완료 되면 [http://localhost:3000/](http://localhost:3000/) 해당 주소로 들어가면 아래와 같은 화면이 보입니다.
-![index](./readme_image/index.png)
+![index](./readme_image/index.PNG)
 
